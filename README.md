@@ -7,3 +7,18 @@
 
 ## 常用基本操作
 *   新建文章
+```shell
+$ hexo new [layout] <title>
+```
+*   生成静态
+```
+$ hexo generate
+```
+*   启动服务
+```
+$ hexo server
+```
+*   部属网站
+```
+$ hexo deploy
+```
