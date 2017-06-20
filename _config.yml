@@ -75,5 +75,5 @@ theme: tiansky
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/sept08/sept08.github.io.git
+  repo: git@github.com:sept08/sept08.github.io.git
   branch: master
