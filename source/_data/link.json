@@ -1,11 +1,8 @@
 {
     "social": {
-        "weibo": "http://we1ibo.com/1956184117",
-        "github": "https://github.com/rayta1ylorlin",
-	      "rss": "/atom.xml"
+        "github": "https://github.com/rayta1ylorlin"
     },
     "extern": {
-	    "raytaylorism主题作者的技术博客": "http://raytaylorlin1.com/",
-	    "Github地址（测试友情链接）": "https://github.com/raytaylorl1in"
+	    "前端技术博客": "http://tianjiaqi.xyz/WebFront-notes"
     }
 }

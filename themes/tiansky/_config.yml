@@ -55,12 +55,10 @@ excerpt_link: Read More
 archive_yearly: true
 
 # 版权信息
-copyright: © 2016 example.com, All rights reserved.
+copyright: © 2017 tianjiaqi.xyz, All rights reserved.
 
 # Disqus评论shortname，若为空则不启用
-disqus_shortname:
-# 多说shortname，若为空则不启用
-duoshuo_shortname:
+disqus_shortname: littlejixing
 
 # Google分析track id，若为空则不启用
 google_analytics:
