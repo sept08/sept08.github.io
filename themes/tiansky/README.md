@@ -75,14 +75,13 @@ search:
     * 腾讯分析：（国内用户有Google分析被墙的可能）`yourblog/themes/raytaylorism/_config.yml`中的`tencent_analytics`一项改为你的**sId**（在腾讯分析添加站点后，复制代码中`sId=xxxxxxxx`那串数字就是sId），留空则不启用
     * 如果你需要其他第三方的站点统计，可以仿照上面的例子添加配置，并在`yourblog/themes/raytaylorism/layout/_partial/plugin/analytics.ejs`中添加相应的统计代码
 
-## 使用的插件
+## 插件链接
 
 * 样式框架：[Materialize]
 * 代码语法高亮：[Google-code-prettify]
 * 流量分析：[Google Analytics]、[腾讯分析]
-* 第三方社会化评论:
-   * 畅言: [http://changyan.kuaizhan.com/](http://changyan.kuaizhan.com/)
-   * Disqus: [https://disqus.com/](https://disqus.com/)
+* 文档公式输入: [MathJax](http://docs.mathjax.org/en/latest/index.html)
+* 第三方社会化评论: [畅言](http://changyan.kuaizhan.com/), [Disqus](https://disqus.com/)
 
 ## 更新日志
 
