@@ -1,20 +1,18 @@
 {
     "define": {
-	    "readed": "已读",
-        "reading": "在读",
-        "wanted": "想读"
+      "readed": "已读",
+      "reading": "在读",
+      "wanted": "想读"
     },
     "contents": {
-        "readed": [ {
-            "title": "JavaScript语言精粹",
-            "cover": "http://img3.douban.com/lpic/s11373174.jpg",
-            "review": "这是一本前端人员的基础书，强烈推荐阅读，而且越早看受益越多！",
-            "score": "9.5",
-            "doubanLink": "http://book.douban.com/subject/11874748/"
-        }],
-		
-		"reading": [],
-
-        "wanted": []
-    }
+      "readed": [{
+        "title": "JavaScript语言精粹",
+        "cover": "http://img3.douban.com/lpic/s11373174.jpg",
+        "review": "这是一本前端人员的基础书，强烈推荐阅读，而且越早看受益越多！",
+        "score": "9.5",
+        "doubanLink": "http://book.douban.com/subject/11874748/"
+      }],
+		  "reading": [],
+      "wanted": []
+  }
 }

@@ -1,24 +1,21 @@
 {
     "avatar": "",
     "name": "你的大名",
-	"tag": "Web前端/全栈/区块链",
+    "tag": "全栈/区块链",
     "desc": "你的简介（建议一两句话）",
     "skills": {
         "Javascript": 8,
-		"Python": 6,
-		"invisible-split-line-1": -1,
-		"Node.js": 4
+        "Python": 6,
+        "invisible-split-line-1": -1,
+        "Node.js": 4
     },
     "projects": [{
-		"name": "你的作品X",
-		"image": "",
-		"description": "你的作品X的简介",
-		"tags": ["Github", "设计"],
-		"link_text": "Github地址",
-		"link": "https://github.com/"
-	}],
-	"reward": [
-	    "",
-		""
-	]
+      "name": "你的作品X",
+      "image": "",
+      "description": "你的作品X的简介",
+      "tags": ["Github", "设计"],
+      "link_text": "Github地址",
+      "link": "https://github.com/"
+    }],
+    "reward": []
 }

@@ -22,7 +22,7 @@ menu:
 social: Social
 powered:
     first: "Blog powered by"
-    last: ""
+    last: "."
 current_page: Current page
 page_name:
     categories: (Categories)

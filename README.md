@@ -10,3 +10,10 @@
 *   生成静态  `$ hexo generate`
 *   启动服务  `$ hexo server`
 *   部属网站  `$ hexo deploy`
+
+## 待完善功能
+*   打赏记录功能
+*   网站分析 - google分析、腾讯分析
+*   RSS
+*   站内搜素
+*   了解框架[furatto](http://icalialabs.github.io/furatto/)
