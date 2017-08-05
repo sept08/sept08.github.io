@@ -1,16 +1,8 @@
-# hexo-theme-raytaylorism v2
+# hexo-theme-tiansky v1
 
 raytaylorism（Ray Taylor主义）是我自己设计并制作的一款清新的的响应式Material Design风格的[Hexo]主题。该主题支持最新的Hexo 3.1版本。**本主题不再支持Hexo 2.x版本，请使用本主题前备份你的数据并升级到Hexo 3。**
 
 （English document is coming soon...）
-
-## 预览
-
-* [我的博客]
-* [主题截图1](http://raytaylorlin-blog.qiniudn.com/image%2Fscreenshot%2Fscreenshot1.jpg)
-* [主题截图2](http://raytaylorlin-blog.qiniudn.com/image%2Fscreenshot%2Fscreenshot2.jpg)
-* [主题截图3](http://raytaylorlin-blog.qiniudn.com/image%2Fscreenshot%2Fscreenshot3.jpg)
-* [主题截图4](http://raytaylorlin-blog.qiniudn.com/image%2Fscreenshot%2Fscreenshot4.jpg)
 
 ## 安装
 
@@ -88,34 +80,26 @@ search:
 * 样式框架：[Materialize]
 * 代码语法高亮：[Google-code-prettify]
 * 流量分析：[Google Analytics]、[腾讯分析]
-* 第三方社会化评论：[多说]
+* 第三方社会化评论:
+   * 畅言: [http://changyan.kuaizhan.com/](http://changyan.kuaizhan.com/)
+   * Disqus: [https://disqus.com/](https://disqus.com/)
 
 ## 更新日志
 
-* 2.2.3(2016-10-1) 修复首页非第1页点击READMORE路径错误的问题，修复多行代码由于空行不占位导致显示错位的问题
-* 2.2.2(2016-6-7) 更新jQuery和Materialize库至最新版，修复正文右侧目录在某些浏览器无法正常导航的问题
-* 2.2.1(2016-5-14) 添加打开搜索框时自动聚焦的功能
-* 2.2.0(2016-4-22) 新增搜索功能
-* 2.1.3(2016-4-13) 修复多行代码被挤到下方的显示问题
-* 2.1.2(2016-4-5) 优化二级无序列表的样式，修复标签页和分类页的pagenav链接重复显示了两次导致404的问题
-* 2.1.1(2016-3-29) 优化正文表格和引用的显示
-* 2.1.0(2016-3-28) 增加对繁体中文和英文的支持
-* 2.0.0-alpha(2016-3-14) 发布raytaylorism v2 alpha版本
+* 2.0.1(2017-08-05) 引入 MathJax.js 使得在Markdown文档中支持公式
+
 
 [历史记录](log.md)
 
 [Hexo]: http://hexo.io/
-[我的博客]: http://raytaylorlin.com/
-[Data Files]: https://hexo.io/docs/data-files.html
-[Materializecss色板]: http://materializecss.com/color.html#palette
-[Font Awesome图标]: https://fortawesome.github.io/Font-Awesome/icons/
+[Materialize]: http://materializecss.com/
+[Materializecss]: http://materializecss.com/color.html#palette
+[Font Awesome]: https://fortawesome.github.io/Font-Awesome/icons/
 [Prettify Theme]: http://jmblog.github.io/color-themes-for-google-code-prettify/
 [hexo-generator-search]: https://github.com/PaicHyperionDev/hexo-generator-search
 [hexo-generator-feed]: https://github.com/hexojs/hexo-generator-feed
-[Materialize]: http://materializecss.com/
 [Google-code-prettify]: https://code.google.com/p/google-code-prettify/
 [Google Analytics]: http://www.google.com/analytics/
 [腾讯分析]: http://v2.ta.qq.com/
 [Furatto]: http://icalialabs.github.io/furatto/
-[Font Awesome]: http://fortawesome.github.io/Font-Awesome/
-[多说]: http://duoshuo.com/
+
