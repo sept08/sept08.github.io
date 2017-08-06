@@ -1,5 +1,5 @@
 ---
-title: LeetCode刷笔(1)Hamming Distance
+title: 刷题笔记-1-Hamming Distance
 layout: post
 date: 2017-08-05 14:20:30
 tags: LeetCode
