@@ -6,10 +6,10 @@
     3.  `npm install hexo-deployer-git` 安装hexo的部属发布环境
 
 ## 常用基本操作
-*   新建文章  `$ hexo new [layout] <title>`
-*   生成静态  `$ hexo generate`
-*   启动服务  `$ hexo server`
-*   部属网站  `$ hexo deploy`
+*   新建文章  `hexo new [layout] <title>`
+*   生成静态  `hexo generate`
+*   启动服务  `hexo server`
+*   部属网站  `hexo deploy`
 
 ## 待完善功能
 *   打赏记录功能
